@@ -23,5 +23,17 @@
     "aep": "calendly saas folder/calendly saas folder/calendly saas.aep",
     "mainComp": "",
     "sizeBytes": 266338304
+  },
+  {
+    "id": "bottled-water",
+    "title": "Bottled Water",
+    "titleAr": "الماء المعبأ",
+    "category": "Promo",
+    "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/3/Bottled.Water.The.Marketing.Behind.Something.That.Was.Free.mp4",
+    "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/3/bottled-water-the-marketing-behind-something-that-was-free.zip",
+    "sha256": "e6803b330ece7c10af48b81a3f514ff0cd754d01fbe3cbcf4bb18c828d153939",
+    "aep": "Water bottle.aep",
+    "mainComp": "",
+    "sizeBytes": 186455205
   }
 ]
