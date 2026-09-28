@@ -1,0 +1,15 @@
+[
+  {
+    "id": "phia-vsl",
+    "title": "Phia Promo Ad",
+    "titleAr": "إعلان Phia",
+    "category": "Promo",
+    "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/phia-preview.mp4",
+    "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/phia-poster.jpg",
+    "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/v1.0.0/Phia_VSL_Collect.zip",
+    "sha256": "8489bf794367d528a3f548c764605ac1cb9ec6c2cd205054b3475dbda74a1434",
+    "aep": "Phia_VSL/phia VSL.aep",
+    "mainComp": "Main Animation",
+    "sizeBytes": 32285559
+  }
+]
