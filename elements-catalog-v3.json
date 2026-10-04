@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "neon-glass-01",
+      "title": "Neon Glass 01",
+      "titleAr": "زجاج نيون 01",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_01.aep",
+      "mainComp": "Shape_01",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/01.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/01.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-01.zip",
+      "sizeBytes": 45118761,
+      "sha256": "f41edd8cc67282489bbdce79ff6c1cb2a99298d4f0c9f85f50fb778115b55fe9"
+    },
+    {
+      "id": "neon-glass-02",
+      "title": "Neon Glass 02",
+      "titleAr": "زجاج نيون 02",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_02.aep",
+      "mainComp": "Shape_02",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/02.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/02.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-02.zip",
+      "sizeBytes": 33105470,
+      "sha256": "824110df70ed01724ecc068edde37451d446d870ecb27e6ead02c6b6caf2e758"
+    },
+    {
+      "id": "neon-glass-03",
+      "title": "Neon Glass 03",
+      "titleAr": "زجاج نيون 03",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_03.aep",
+      "mainComp": "Shape_03",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/03.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/03.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-03.zip",
+      "sizeBytes": 10234330,
+      "sha256": "0c36b9763c451ad38c9c106bd662dac75c344eb5c69dbd9b2660e8390455b457"
+    },
+    {
+      "id": "neon-glass-04",
+      "title": "Neon Glass 04",
+      "titleAr": "زجاج نيون 04",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_04.aep",
+      "mainComp": "Shape_04",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/04.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/04.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-04.zip",
+      "sizeBytes": 11382482,
+      "sha256": "148e7572226b7ba0a34d5fa5a2e65ede415a9c5690d16224dc1c613b7c513e6a"
+    },
+    {
+      "id": "neon-glass-05",
+      "title": "Neon Glass 05",
+      "titleAr": "زجاج نيون 05",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_05.aep",
+      "mainComp": "Shape_05",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/05.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/05.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-05.zip",
+      "sizeBytes": 29829656,
+      "sha256": "0cd3e15c01cb9827ebd5d44272e1d067b83dd0c2ad5445833cb1d8407af9ee08"
+    },
+    {
+      "id": "neon-glass-06",
+      "title": "Neon Glass 06",
+      "titleAr": "زجاج نيون 06",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_06.aep",
+      "mainComp": "Shape_06",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/06.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/06.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-06.zip",
+      "sizeBytes": 36440513,
+      "sha256": "5c2bfefee4b205f2af4aa66abc231f2b9ca153ac46eabb5901315c8aa5b3a5d4"
+    },
+    {
+      "id": "neon-glass-07",
+      "title": "Neon Glass 07",
+      "titleAr": "زجاج نيون 07",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_07.aep",
+      "mainComp": "Shape_07",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/07.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/07.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-07.zip",
+      "sizeBytes": 9946489,
+      "sha256": "261712c122cb381ab6f80e92a4121f850df4af53c607fc5cab79f86e40961947"
+    },
+    {
+      "id": "neon-glass-08",
+      "title": "Neon Glass 08",
+      "titleAr": "زجاج نيون 08",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_08.aep",
+      "mainComp": "Shape_08",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/08.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/08.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-08.zip",
+      "sizeBytes": 11370067,
+      "sha256": "4eb717ca606b99d4446c706e5bb618258078387545b9ad8320f5281c2fec7336"
+    },
+    {
+      "id": "neon-glass-09",
+      "title": "Neon Glass 09",
+      "titleAr": "زجاج نيون 09",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_09.aep",
+      "mainComp": "Shape_09",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/09.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/09.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-09.zip",
+      "sizeBytes": 14557252,
+      "sha256": "e6306fb43eb78bf7e17e920e2c86ede70e517d2c5055ae39404d1466fd74734c"
+    },
+    {
+      "id": "neon-glass-10",
+      "title": "Neon Glass 10",
+      "titleAr": "زجاج نيون 10",
+      "category": "Glass Shapes",
+      "kind": "aep",
+      "entry": "Shape_10.aep",
+      "mainComp": "Shape_10",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/10.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/10.jpg",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-neon-v1/neon-glass-10.zip",
+      "sizeBytes": 11046843,
+      "sha256": "ce526e3e9aae36fb930fad925685ce01336d2400aacef41c5861c32c89924b41"
+    },
+    {
+      "id": "colorful-glass-01",
+      "title": "Colorful Glass 01",
+      "titleAr": "زجاج ملون 01",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_01.aep",
+      "mainComp": "Shape.01",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 60210049,
+      "sha256": "aa9121577439dcfa47015f66d007b4c55109463452388456d969804e58d880bd",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-01.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-01.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-01.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "6bd907e32f770d37c57e1dca8f6b535835b049b8954a7620f43750a9bd6fbc2c"
+      }
+    },
+    {
+      "id": "colorful-glass-02",
+      "title": "Colorful Glass 02",
+      "titleAr": "زجاج ملون 02",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_02.aep",
+      "mainComp": "Shape.02",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 77225226,
+      "sha256": "f7aa35019bb72e81dc97cccd1e2ceaf8360dd860a8d027cfff7d45de3c69ab10",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-02.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-02.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-02.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "5d1f400a183470c80f865fa6b7041744aa153058ef47294950c9f36d5191cd9f"
+      }
+    },
+    {
+      "id": "colorful-glass-03",
+      "title": "Colorful Glass 03",
+      "titleAr": "زجاج ملون 03",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_03.aep",
+      "mainComp": "Shape.03",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 69381472,
+      "sha256": "335680859228a31c7c451a3f75b4f8db64b1d870b3c5f1b000a4c46e177f540f",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-03.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-03.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-03.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "9cc2671f1a004bce213fa19f1deaf38199bdbdda2d0e4185444e5094eaf2777a"
+      }
+    },
+    {
+      "id": "colorful-glass-04",
+      "title": "Colorful Glass 04",
+      "titleAr": "زجاج ملون 04",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_04.aep",
+      "mainComp": "Shape.04",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 54794670,
+      "sha256": "89096c38549e303c4047787262cece068ed419f6db33a9f28109d30704be69fe",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-04.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-04.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-04.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "68d52c72b5c5ab948272ed26d17803caaaf271546a3c53bed4c788be835017c5"
+      }
+    },
+    {
+      "id": "colorful-glass-05",
+      "title": "Colorful Glass 05",
+      "titleAr": "زجاج ملون 05",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_05.aep",
+      "mainComp": "Shape.05",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 73562923,
+      "sha256": "6e9ba75167d483055553150a269143b024be9bf7be7db181db5f7a797cb5270b",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-05.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-05.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-05.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "33573ed4445a977bd06ea0ed307267bc7f1f0f6471cf137a829e7fd43ecd9ce9"
+      }
+    },
+    {
+      "id": "colorful-glass-06",
+      "title": "Colorful Glass 06",
+      "titleAr": "زجاج ملون 06",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_06.aep",
+      "mainComp": "Shape.06",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 63637994,
+      "sha256": "f73a9755d11fcea96a3ff758bd8732329075e0624519fc27ad7918f51f84a38a",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-06.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-06.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-06.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "41309d91269d3797696210354d417e6aac7880e46a3b5b7dbe0bdce7256042a4"
+      }
+    },
+    {
+      "id": "colorful-glass-07",
+      "title": "Colorful Glass 07",
+      "titleAr": "زجاج ملون 07",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_07.aep",
+      "mainComp": "Shape.07",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 68119155,
+      "sha256": "fd2ebd5d9cfa0a626ecf1723f05e2c66ff513e5cdbe5d6d6605e030b2068f087",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-07.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-07.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-07.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "016b1e28bb86d4f81dff93148d030d0e96b20db920ec842bab0940f2bbfe5087"
+      }
+    },
+    {
+      "id": "colorful-glass-08",
+      "title": "Colorful Glass 08",
+      "titleAr": "زجاج ملون 08",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_08.aep",
+      "mainComp": "Shape.08",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 47308568,
+      "sha256": "32cb282e2cb9a36c666482f581d3358c3e53d2b914da6f62975362509934c1e9",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-08.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-08.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-08.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "05d5f72675441639089fbf5ab05c8d2b3bcc72cb2c3278eb3ab7554ca038283a"
+      }
+    },
+    {
+      "id": "colorful-glass-09",
+      "title": "Colorful Glass 09",
+      "titleAr": "زجاج ملون 09",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_09.aep",
+      "mainComp": "Shape.09",
+      "sequences": [
+        {
+          "footageName": "[0000-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 191
+        }
+      ],
+      "sizeBytes": 79003679,
+      "sha256": "7341adb14b4ad12e0583c45925c810f2402633262e0a2e1033cad1bea2133a44",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-09.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-09.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-09.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 191,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "f92c4e767b8c2f76f96ae90cad7125c2fd01dc66d4f1b06980fce6a52d9ed6fd"
+      }
+    },
+    {
+      "id": "colorful-glass-10",
+      "title": "Colorful Glass 10",
+      "titleAr": "زجاج ملون 10",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_10.aep",
+      "mainComp": "Shape.10",
+      "sequences": [
+        {
+          "footageName": "[0000-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 191
+        }
+      ],
+      "sizeBytes": 60320721,
+      "sha256": "283043e5dc86a4900e6a64d4e27d71f9a8253ee0046326613b6b014de98796c5",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-10.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-10.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-10.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 191,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "4633ffab5bba8a56f29e4a5149dd0cda203ec2a780b1d454e38cc7b3973ef330"
+      }
+    },
+    {
+      "id": "colorful-glass-11",
+      "title": "Colorful Glass 11",
+      "titleAr": "زجاج ملون 11",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_11.aep",
+      "mainComp": "Shape.11",
+      "sequences": [
+        {
+          "footageName": "[0000-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 191
+        }
+      ],
+      "sizeBytes": 107212341,
+      "sha256": "a42e243914a428f36f58b382cbcf5c698be21f9f7c56f2874f98f111db33dfd0",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-11.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-11.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-11.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 191,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "d228873eaaff0bdbbdd45330401d81cf3ec9884a88e94c769bf05cd5a9542e30"
+      }
+    },
+    {
+      "id": "colorful-glass-12",
+      "title": "Colorful Glass 12",
+      "titleAr": "زجاج ملون 12",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_12.aep",
+      "mainComp": "Shape.12",
+      "sequences": [
+        {
+          "footageName": "[0000-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 191
+        }
+      ],
+      "sizeBytes": 68261344,
+      "sha256": "53b139e20e0bcd8e14cc08ceb7e7780f3fd04ca392b7ed773fcfd8438cebc7ff",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-12.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-12.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-12.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 191,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "36be9106aeebebf4c8dd48043b41786c1ba99fbdc36366c71c55fb7f75730a3b"
+      }
+    },
+    {
+      "id": "colorful-glass-13",
+      "title": "Colorful Glass 13",
+      "titleAr": "زجاج ملون 13",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_13.aep",
+      "mainComp": "Shape.13",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 55128902,
+      "sha256": "2405c9adc6efe147e0c06d8a7f1eea779a8082eddae69157da425ebff51cad2d",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-13.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-13.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-13.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "b1d6618da4b6ad441994f7488496d808daef379fa3a6b4e4c615ab48c9fe22f1"
+      }
+    },
+    {
+      "id": "colorful-glass-14",
+      "title": "Colorful Glass 14",
+      "titleAr": "زجاج ملون 14",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_14.aep",
+      "mainComp": "Shape.14",
+      "sequences": [
+        {
+          "footageName": "[0000-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 191
+        }
+      ],
+      "sizeBytes": 80994319,
+      "sha256": "f20cf709946d18ac84039fef60f14612f94123662f5324e465d326c917ececc5",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-14.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-14.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-14.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 191,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "4e3f76fa678ea9bb3d421a79af5e517932910d716809923d1025bbab7ed39de2"
+      }
+    },
+    {
+      "id": "colorful-glass-15",
+      "title": "Colorful Glass 15",
+      "titleAr": "زجاج ملون 15",
+      "category": "Colorful Glass",
+      "kind": "aep",
+      "entry": "Shape_15.aep",
+      "mainComp": "Shape.15",
+      "sequences": [
+        {
+          "footageName": "[0000-0160].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 161
+        }
+      ],
+      "sizeBytes": 64627589,
+      "sha256": "35aa355ad02964861c5d92022c2e40d812e9f94aa26a5b271a35a23e9860e24e",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-lossless-v1/colorful-glass-15.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-15.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-colorful-glass-v1/colorful-15.jpg",
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 161,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "9ceb54f49e12b9eb843b3629c31d1a8f30f92b2580b193b18ce5aa0e1c9141b9"
+      }
+    }
+  ]
+}
