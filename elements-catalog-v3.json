@@ -620,6 +620,282 @@
         "frameRate": 30,
         "rgbaSha256": "9ceb54f49e12b9eb843b3629c31d1a8f30f92b2580b193b18ce5aa0e1c9141b9"
       }
+    },
+    {
+      "id": "inflated-shape-01",
+      "title": "Inflated Shape 01",
+      "titleAr": "شكل منتفخ 01",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_01.aep",
+      "mainComp": "shape.01",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-01.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-01.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-01.jpg",
+      "sizeBytes": 127228520,
+      "sha256": "b29870513eef8b15340dd279141f7d57f05a5c35980be118f8af9a109c8e5cef"
+    },
+    {
+      "id": "inflated-shape-02",
+      "title": "Inflated Shape 02",
+      "titleAr": "شكل منتفخ 02",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_02.aep",
+      "mainComp": "shape.02",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-02.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-02.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-02.jpg",
+      "sequences": [
+        {
+          "footageName": "[0001-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 190
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 190,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "29aa3fbec8d69fc50b3d948937669236b640a95920d44a13f4800e4abaf67e5e"
+      },
+      "sizeBytes": 84166084,
+      "sha256": "949e584dc0d33bc6f1b4249876480fa6aba192a55446f3cb9d2a418f012836d5"
+    },
+    {
+      "id": "inflated-shape-03",
+      "title": "Inflated Shape 03",
+      "titleAr": "شكل منتفخ 03",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_03.aep",
+      "mainComp": "shape.03",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-03.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-03.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-03.jpg",
+      "sizeBytes": 153049576,
+      "sha256": "288a3cfd306aee26e2c9a0bbac867b4b4b15b1a21a8b14e5be71c9e2576e080c"
+    },
+    {
+      "id": "inflated-shape-04",
+      "title": "Inflated Shape 04",
+      "titleAr": "شكل منتفخ 04",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_04.aep",
+      "mainComp": "shape.04",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-04.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-04.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-04.jpg",
+      "sizeBytes": 115672317,
+      "sha256": "858ca5642380749efd2261c95c89e211fdb753ab37a0cda09991e5eb6672569b"
+    },
+    {
+      "id": "inflated-shape-05",
+      "title": "Inflated Shape 05",
+      "titleAr": "شكل منتفخ 05",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_05.aep",
+      "mainComp": "shape.05",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-05.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-05.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-05.jpg",
+      "sizeBytes": 111926867,
+      "sha256": "2e9c987d32091e08b7b95eb8672e96bd8227ea67fb62954cd6e2b402c3d27789"
+    },
+    {
+      "id": "inflated-shape-06",
+      "title": "Inflated Shape 06",
+      "titleAr": "شكل منتفخ 06",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_06.aep",
+      "mainComp": "shape.06",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-06.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-06.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-06.jpg",
+      "sequences": [
+        {
+          "footageName": "[0001-0180].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 180
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 180,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "38b493ebe4ae358da81ca586ff3ff343416d0932aef19bab610fd54a7190183d"
+      },
+      "sizeBytes": 62535071,
+      "sha256": "75301daf45e337e29a9e340a7674159a94b8a55539df64c1534574ad83f9212c"
+    },
+    {
+      "id": "inflated-shape-07",
+      "title": "Inflated Shape 07",
+      "titleAr": "شكل منتفخ 07",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_07.aep",
+      "mainComp": "shape.07",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-07.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-07.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-07.jpg",
+      "sizeBytes": 101440622,
+      "sha256": "632547a4dd32b1fa4acdb34c1a70c354fd33ae67065f13abd2419ca90b3c4962"
+    },
+    {
+      "id": "inflated-shape-08",
+      "title": "Inflated Shape 08",
+      "titleAr": "شكل منتفخ 08",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_08.aep",
+      "mainComp": "shape.08",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-08.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-08.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-08.jpg",
+      "sizeBytes": 125439212,
+      "sha256": "adb0601e7034f440fffb5989daed34045e1e94e5bfd3a3dccd3f29e5439984e7"
+    },
+    {
+      "id": "inflated-shape-09",
+      "title": "Inflated Shape 09",
+      "titleAr": "شكل منتفخ 09",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_09.aep",
+      "mainComp": "shape.09",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-09.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-09.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-09.jpg",
+      "sequences": [
+        {
+          "footageName": "[0001-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 190
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 190,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "2e4264b5ea9486a969ae379c009a9956c4959cad36d12a7b2a07fd18494165c2"
+      },
+      "sizeBytes": 82892320,
+      "sha256": "b0c29de13657f3de76326f03aba05e700617ee825ea8ba78a65d94b082f3d2f3"
+    },
+    {
+      "id": "inflated-shape-10",
+      "title": "Inflated Shape 10",
+      "titleAr": "شكل منتفخ 10",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_10.aep",
+      "mainComp": "shape.10",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-10.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-10.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-10.jpg",
+      "sequences": [
+        {
+          "footageName": "[0001-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 190
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 190,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "7457e7d4a419b49f69088ebf4660dc1d2b4c7cf1e223daa256ee609646fa62c6"
+      },
+      "sizeBytes": 71778466,
+      "sha256": "582e62eba4a247d24b075908cc173337f6a227957421229d6426196669f55dc4"
+    },
+    {
+      "id": "inflated-shape-11",
+      "title": "Inflated Shape 11",
+      "titleAr": "شكل منتفخ 11",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_11.aep",
+      "mainComp": "shape.11",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-11.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-11.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-11.jpg",
+      "sequences": [
+        {
+          "footageName": "[0001-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 190
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 190,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "80e41393b439178a79511683e574c2d3ebd0a22b48a3935f5d6e722db7f80beb"
+      },
+      "sizeBytes": 76642010,
+      "sha256": "c618d9cc807a9bbb84eb53cd4dab4684116fbffe7cf97c9013b7c5892d6da8d8"
+    },
+    {
+      "id": "inflated-shape-12",
+      "title": "Inflated Shape 12",
+      "titleAr": "شكل منتفخ 12",
+      "category": "Inflated Shapes",
+      "kind": "aep",
+      "entry": "Inflated_12.aep",
+      "mainComp": "shape.12",
+      "downloadUrl": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-12.zip",
+      "preview": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-12.mp4",
+      "poster": "https://github.com/lokaya0/lokaya-projects/releases/download/elements-inflated-v1/inflated-shape-12.jpg",
+      "sequences": [
+        {
+          "footageName": "[0010-0190].png",
+          "entry": "media/0000.png",
+          "frameRate": 30,
+          "frames": 181
+        }
+      ],
+      "compressedSequence": {
+        "codec": "ffv1",
+        "entry": "media/source.mkv",
+        "output": "media/0000.png",
+        "frames": 181,
+        "width": 1080,
+        "height": 1080,
+        "frameRate": 30,
+        "rgbaSha256": "4e039164b0f4f1590c10dd38b51ef11ad2f4a8a201f256f9a50ad1306650a6f0"
+      },
+      "sizeBytes": 69905139,
+      "sha256": "e91bdd4b4cfe887eadd22b2c449ccf2b3c5ff1820195a78065b94b17f679b909"
     }
   ]
 }
