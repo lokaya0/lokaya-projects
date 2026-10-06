@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 1,
   "items": [
     {
       "id": "neon-glass-01",
@@ -1039,7 +1039,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-01.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-01.zip",
       "sizeBytes": 372621,
-      "sha256": "4305702e92a34888f082a01a4c386b08ae862c6ecc1e743b98ba6bd66275f47c"
+      "sha256": "4305702e92a34888f082a01a4c386b08ae862c6ecc1e743b98ba6bd66275f47c",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bold-glass-title-02",
@@ -1053,7 +1055,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-02.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-02.zip",
       "sizeBytes": 127979,
-      "sha256": "1455aba0d3e650ded51e6642aa2f83ac466a9f4a2a77ec5ca6927d2943f0474f"
+      "sha256": "1455aba0d3e650ded51e6642aa2f83ac466a9f4a2a77ec5ca6927d2943f0474f",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bold-glass-title-03",
@@ -1067,7 +1071,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-03.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-03.zip",
       "sizeBytes": 133819,
-      "sha256": "6ce9d602eceee1ea125091c87363e605d2161b0ab0534773970dd10b66852c71"
+      "sha256": "6ce9d602eceee1ea125091c87363e605d2161b0ab0534773970dd10b66852c71",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bold-glass-title-04",
@@ -1081,7 +1087,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-04.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bold-glass-title-04.zip",
       "sizeBytes": 207180,
-      "sha256": "499f2fc47db4c53c0f56a7ef65535119ad88156dff27e4588969bc41ae2a0350"
+      "sha256": "499f2fc47db4c53c0f56a7ef65535119ad88156dff27e4588969bc41ae2a0350",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-01",
@@ -1095,7 +1103,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-01.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-01.zip",
       "sizeBytes": 9207320,
-      "sha256": "8918857f7944670d57f1784b10beed328feb5053b6c2acdcc40baedfdb196c36"
+      "sha256": "8918857f7944670d57f1784b10beed328feb5053b6c2acdcc40baedfdb196c36",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-02",
@@ -1109,7 +1119,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-02.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-02.zip",
       "sizeBytes": 4152171,
-      "sha256": "9ad32f3f8b5bfdf391257a8188d689a6a189bae13b58362101c1a5fec3ecb981"
+      "sha256": "9ad32f3f8b5bfdf391257a8188d689a6a189bae13b58362101c1a5fec3ecb981",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-03",
@@ -1123,7 +1135,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-03.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-03.zip",
       "sizeBytes": 6022898,
-      "sha256": "783d3a404022c2198505412c70dc9f0275144ec54b3f44f234fa0cafb9e82cf0"
+      "sha256": "783d3a404022c2198505412c70dc9f0275144ec54b3f44f234fa0cafb9e82cf0",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-04",
@@ -1137,7 +1151,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-04.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-04.zip",
       "sizeBytes": 11939903,
-      "sha256": "5db148c982650c0150870896bff3db767b01bd822962ced9c9e105afa6dd7fbd"
+      "sha256": "5db148c982650c0150870896bff3db767b01bd822962ced9c9e105afa6dd7fbd",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-05",
@@ -1151,7 +1167,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-05.jpg",
       "downloadUrl": "https://github.com/lokaya0/lokaya-projects/archive/594a6074004e95745ac3839168a8292b74dff2e9.zip",
       "sizeBytes": 16549234,
-      "sha256": "d4c2faeff613dab61ddafb06a38bce1aa7b833b2e63199d69a22a22c54906ce7"
+      "sha256": "d4c2faeff613dab61ddafb06a38bce1aa7b833b2e63199d69a22a22c54906ce7",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-06",
@@ -1165,7 +1183,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-06.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-06.zip",
       "sizeBytes": 11947373,
-      "sha256": "7fe48133bebbc46b3848685ab46ec79d0a6aa42f2d6de9134d55c2fb3fb7a79d"
+      "sha256": "7fe48133bebbc46b3848685ab46ec79d0a6aa42f2d6de9134d55c2fb3fb7a79d",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-07",
@@ -1179,7 +1199,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-07.jpg",
       "downloadUrl": "https://github.com/lokaya0/lokaya-projects/archive/517f15f5a6acfecd85bc836cae991f0ad6a9d534.zip",
       "sizeBytes": 14418478,
-      "sha256": "aa06c0252652eccc977d2eb577ff8d50b02956e70cd142cda32d157a7c876e39"
+      "sha256": "aa06c0252652eccc977d2eb577ff8d50b02956e70cd142cda32d157a7c876e39",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-08",
@@ -1193,7 +1215,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-08.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-08.zip",
       "sizeBytes": 11939917,
-      "sha256": "3e9ac9a72d824ea6bffe23f73e388f9b5d26d49f14ef74299c684fca7eae7fd1"
+      "sha256": "3e9ac9a72d824ea6bffe23f73e388f9b5d26d49f14ef74299c684fca7eae7fd1",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "bubble-glass-title-09",
@@ -1207,7 +1231,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-09.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/bubble-glass-title-09.zip",
       "sizeBytes": 11941529,
-      "sha256": "146ec92e69c5016a0cc2ae660cb28039ed3ed18a8b7dce98c6c42084f012fe19"
+      "sha256": "146ec92e69c5016a0cc2ae660cb28039ed3ed18a8b7dce98c6c42084f012fe19",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "glass-shape-title-01",
@@ -1221,7 +1247,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-01.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-01.zip",
       "sizeBytes": 107397,
-      "sha256": "40c2893fe1138a7e07e1b62dea198326748b368e4e05f27bc9f57a18239ff9c8"
+      "sha256": "40c2893fe1138a7e07e1b62dea198326748b368e4e05f27bc9f57a18239ff9c8",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "glass-shape-title-02",
@@ -1235,7 +1263,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-02.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-02.zip",
       "sizeBytes": 6603934,
-      "sha256": "8b2efc6cba71e7d3a5ffec4fdb8983781ddac9c0ad3aa8bcfa20d3a74ccd360f"
+      "sha256": "8b2efc6cba71e7d3a5ffec4fdb8983781ddac9c0ad3aa8bcfa20d3a74ccd360f",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "glass-shape-title-03",
@@ -1249,7 +1279,9 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-03.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-03.zip",
       "sizeBytes": 159992,
-      "sha256": "419ce1f7e801e9b1c7ae66fbfdacf37d45f9c26cdc28a5e3520d83334f553964"
+      "sha256": "419ce1f7e801e9b1c7ae66fbfdacf37d45f9c26cdc28a5e3520d83334f553964",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     },
     {
       "id": "glass-shape-title-04",
@@ -1263,7 +1295,11 @@
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-04.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-04.zip",
       "sizeBytes": 173666,
-      "sha256": "a85deb2eaa8b9ab0d63029989218e2623d3c52f0b10ddc43affeb715bca9bba1"
+      "sha256": "a85deb2eaa8b9ab0d63029989218e2623d3c52f0b10ddc43affeb715bca9bba1",
+      "addedAt": "2026-10-06T05:00:00Z",
+      "isNew": true
     }
-  ]
+  ],
+  "revision": 4,
+  "updatedAt": "2026-10-06T05:00:00Z"
 }
