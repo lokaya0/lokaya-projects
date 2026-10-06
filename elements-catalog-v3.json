@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "items": [
     {
       "id": "neon-glass-01",
@@ -1222,6 +1222,48 @@
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-01.zip",
       "sizeBytes": 107397,
       "sha256": "40c2893fe1138a7e07e1b62dea198326748b368e4e05f27bc9f57a18239ff9c8"
+    },
+    {
+      "id": "glass-shape-title-02",
+      "title": "Glass Shape Title 02",
+      "category": "Glass Titles",
+      "kind": "aep",
+      "entry": "element.aep",
+      "mainComp": "Final Title 02",
+      "titleAr": "عناوين أشكال زجاج 02",
+      "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-02.mp4",
+      "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-02.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-02.zip",
+      "sizeBytes": 6603934,
+      "sha256": "8b2efc6cba71e7d3a5ffec4fdb8983781ddac9c0ad3aa8bcfa20d3a74ccd360f"
+    },
+    {
+      "id": "glass-shape-title-03",
+      "title": "Glass Shape Title 03",
+      "category": "Glass Titles",
+      "kind": "aep",
+      "entry": "element.aep",
+      "mainComp": "Final Title 03",
+      "titleAr": "عناوين أشكال زجاج 03",
+      "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-03.mp4",
+      "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-03.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-03.zip",
+      "sizeBytes": 159992,
+      "sha256": "419ce1f7e801e9b1c7ae66fbfdacf37d45f9c26cdc28a5e3520d83334f553964"
+    },
+    {
+      "id": "glass-shape-title-04",
+      "title": "Glass Shape Title 04",
+      "category": "Glass Titles",
+      "kind": "aep",
+      "entry": "element.aep",
+      "mainComp": "Final Title 04",
+      "titleAr": "عناوين أشكال زجاج 04",
+      "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-04.mp4",
+      "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-04.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-titles-v1/glass-shape-title-04.zip",
+      "sizeBytes": 173666,
+      "sha256": "a85deb2eaa8b9ab0d63029989218e2623d3c52f0b10ddc43affeb715bca9bba1"
     }
   ]
 }
