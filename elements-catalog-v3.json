@@ -1066,7 +1066,7 @@
       "category": "Glass Shapes",
       "kind": "aep",
       "entry": "element.aep",
-      "mainComp": "Final Title 01",
+      "mainComp": "Title 01",
       "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-01.mp4",
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-01.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-01.zip",
@@ -1082,7 +1082,7 @@
       "category": "Glass Shapes",
       "kind": "aep",
       "entry": "element.aep",
-      "mainComp": "Final Title 02",
+      "mainComp": "Title 02",
       "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-02.mp4",
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-02.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-02.zip",
@@ -1098,7 +1098,7 @@
       "category": "Glass Shapes",
       "kind": "aep",
       "entry": "element.aep",
-      "mainComp": "Final Title 03",
+      "mainComp": "Title 03",
       "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-03.mp4",
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-03.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-03.zip",
@@ -1114,7 +1114,7 @@
       "category": "Glass Shapes",
       "kind": "aep",
       "entry": "element.aep",
-      "mainComp": "Final Title 04",
+      "mainComp": "Title 04",
       "preview": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-04.mp4",
       "poster": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-04.jpg",
       "downloadUrl": "https://raw.githubusercontent.com/lokaya0/lokaya-projects/main/elements/glass-arranged-v2/glass-shape-object-04.zip",
@@ -1268,6 +1268,6 @@
       "isNew": true
     }
   ],
-  "revision": 6,
-  "updatedAt": "2026-10-06T18:00:28.814Z"
+  "revision": 7,
+  "updatedAt": "2026-10-06T18:10:05.762Z"
 }
