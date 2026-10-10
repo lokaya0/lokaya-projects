@@ -1,0 +1,26 @@
+name: Publish Telegram Elements
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [elements/telegram-lower-thirds-v1/packages.json, .github/workflows/publish-telegram.yml]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - run: python3 elements/telegram-lower-thirds-v1/build_packages.py
+      - name: Publish six verified packages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=elements-telegram-lower-thirds-v1
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --target "$GITHUB_SHA" --draft --title "Telegram Lower Thirds — 6 Elements" --notes "Six independent After Effects projects with required media."
+          fi
+          gh release upload "$tag" telegram-release/*.zip --clobber
+          gh release edit "$tag" --draft=false
