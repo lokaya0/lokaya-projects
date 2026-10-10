@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [elements/the-two-v1/packages.json, .github/workflows/publish-the-two.yml]
+    paths: [elements/the-two-v1/projects/**, elements/the-two-v1/packages.json, .github/workflows/publish-the-two.yml]
 permissions:
   contents: write
 concurrency:
