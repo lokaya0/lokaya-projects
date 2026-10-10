@@ -1,0 +1,30 @@
+name: Publish The Two Elements
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [elements/the-two-v1/packages.json, .github/workflows/publish-the-two.yml]
+permissions:
+  contents: write
+concurrency:
+  group: publish-the-two-v1
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Assemble and verify 92 independent packages
+        run: python3 elements/the-two-v1/build_packages.py
+      - name: Publish verified download packages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=elements-the-two-v1
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --target "$GITHUB_SHA" --draft --title "The Two — 92 Elements" --notes "92 independent After Effects projects with their required media."
+          fi
+          gh release upload "$tag" the-two-release/*.zip --clobber
+          gh release edit "$tag" --draft=false
