@@ -1,0 +1,25 @@
+name: Publish verified Montage assets
+on:
+  push:
+    branches: [codex/montage-publish]
+    paths: [montage-publish-ready.txt]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch complete private draft asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          release_id="$(gh api --paginate "repos/$GITHUB_REPOSITORY/releases" --jq '.[] | select(.draft and .name == "Montage online — verified complete staging") | .id')"
+          test -n "$release_id"
+          asset_id="$(gh api "repos/$GITHUB_REPOSITORY/releases/$release_id/assets" --jq '.[] | select(.name == "montage-complete-staging-v1.zip" and .state == "uploaded" and .size == 1308471155) | .id')"
+          test -n "$asset_id"
+          gh api -H 'Accept: application/octet-stream' "repos/$GITHUB_REPOSITORY/releases/assets/$asset_id" > "$RUNNER_TEMP/montage-stage.zip"
+          echo "dff7d098110452b2f846ce8caabdfb664057738e50f01689c4492932b07e1fb1  $RUNNER_TEMP/montage-stage.zip" | sha256sum -c -
+      - name: Validate and publish individual assets and catalogs
+        run: python3 publish-montage.py
