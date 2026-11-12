@@ -1,0 +1,26 @@
+name: Publish 35 Lokaya templates
+on:
+  push:
+    branches: [codex/templates-publish-v1]
+    paths: ['.github/workflows/publish-templates.yml', 'templates/**']
+permissions:
+  contents: write
+concurrency:
+  group: lokaya-templates-online-v1
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: templates
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install gdown==5.2.0
+      - run: python templates/publish.py
+        env:
+          GH_TOKEN: ${{ github.token }}
